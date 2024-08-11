@@ -1,3 +1,4 @@
+# Code by Karan
 import tkinter as tk
 from tkinter import ttk
 import pyperclip
